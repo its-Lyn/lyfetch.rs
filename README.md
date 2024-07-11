@@ -4,7 +4,9 @@ Lyfetch.rs is a rust rewrite of it's [bash predecessor](https://github.com/its-L
 
 Small and quick system information script for linux systems~
 
-![Showcase](./github/showcase.png)
+<p align="center">
+  <img src="./github/showcase.png" />
+</p>
 
 ## Installation
 
